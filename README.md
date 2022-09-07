@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Henry Obinna (A self thought and certified)
+- 👋 Hi, I’m Henry Obinna, Web3 Developer(Self thought and now certified)
 - 👀 I’m interested in ...Blockchain Projects
 - 🌱 I’m currently done researching and learning more of Solidity Programming language
 - 💞️ I’m looking to collaborate on Web3 Projects.
