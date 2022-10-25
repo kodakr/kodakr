@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Henry Obinna, Web3 Developer(Self thought)
+- 👋 Hi, I’m Henry Obinna, Blockchain developer(Self thought)
 - 👀 I’m interested in ...Blockchain Projects
 - 🌱 I’m currently done researching and learning more of Solidity Programming language
 - 💞️ I’m looking to collaborate on Web3 Projects.
