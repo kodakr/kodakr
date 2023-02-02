@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Web3 Projects.
 - 📫 How to reach me ...:
 - thecodiingelephant@gmail.com,
+- theweb#hunter@gmail.com
 - 
 
 <!---
