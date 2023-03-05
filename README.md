@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Henry also @Kodak_Rome, Blockchain Auditor(Self thought)
+- 👋 Hi, I’m Henry also 0xKodak, Blockchain Auditor(Self thought)
 - 👀 I’m interested in ...Blockchain Projects
 - 🌱 I’m currently done researching and learning more of Solidity Programming language
 - 💞️ I’m looking to collaborate on Web3 Projects.
