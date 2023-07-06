@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rome also 0xKodak, Blockchain Auditor(Self thought)
+- 👋 Hi, I’m Henry. O also (Kodak), Blockchain Auditor(Self thought)
 - 👀 I’m interested in ...Blockchain Projects
 - 🌱 I’m currently researching and learning more of EVM related stuffs.
 - 💞️ I’m looking to collaborate on Web3 Projects.
